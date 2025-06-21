@@ -19,6 +19,10 @@ Create, view, and manage text notes directly from your command prompt.
  Type your text line by line
  Type `SAVE` on a new line to save and finish editing
 
+ ## Requirements
+
+Windows Command Prompt
+
   ![image](https://github.com/user-attachments/assets/c97b056d-ea80-47ef-8c04-cda4e122fcc2)
   
   ![image](https://github.com/user-attachments/assets/2bee9b94-e624-4dad-b3ff-87172da04b7c)
